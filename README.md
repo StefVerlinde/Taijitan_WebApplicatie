@@ -7,7 +7,7 @@ From All the projects that were created by students from HoGent, Taijitan chose 
 This project was created in collaboration with: 
 * Jarne Deschacht --> https://github.com/JarneDeschacht
 * Robbe Dekien --> https://github.com/robbedekien 
-* Stef Verlinde --> https://github.com/StefVerlinde
+* Tijs Martens --> https://github.com/TijsM
 
 
 The project consisted out of 2 parts
@@ -22,7 +22,7 @@ The goal was to create a web application where a trainer can start a training an
 
 # Java
 
-The java project can be found at: https://github.com/TijsM/Taijitan_Java 
+The java project can be found at: https://github.com/StefVerlinde/Taijitan_DesktopApplicatie 
 
 We created a administration tool for the ji-jitsu club in Java. 
 This tool can manage
